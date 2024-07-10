@@ -11,9 +11,9 @@ TEXTURES = {
     3: "stone2.png",
     4: "gas.png",
     5: "sand2.png",
-    6: "mole.png",
+    6: "mole3.png",
     7: "portal2.png",
-    8: "skeleton.jpeg",
+    8: "vent.jpg",
     9: "portal2.png",
 }
 
