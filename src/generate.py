@@ -5,16 +5,16 @@ import json
 TILE_SIZE = 64
 
 TEXTURES = {
-    0: "water2.png",
-    1: "dirt2.png",
+    0: "water.png",
+    1: "dirt.png",
     2: "entrance.png",
-    3: "stone2.png",
+    3: "stone.png",
     4: "gas.png",
-    5: "sand2.png",
-    6: "mole3.png",
-    7: "portal2.png",
-    8: "vent.jpg",
-    9: "portal2.png",
+    5: "sand.png",
+    6: "eye.png",
+    7: "portal.png",
+    8: "crystall.png",
+    9: "portal.png",
 }
 
 
